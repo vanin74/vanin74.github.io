@@ -1,19 +1,20 @@
-@import url('https://fonts.googleapis.com/css?family=Ubuntu');
-
-body {
-  background-color: #121212;
+#c1{
+  height: 300px;
+  width: 300px;
+  border: 3px solid black;
+  margin: 40px;
+  background-image: url();
 }
 
-p {
-  margin: 40px auto;
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 70px;
-  font-weight: bold;
-  color: #121212;
-  text-align: center;
-  letter-spacing: 5px;
-  text-shadow: -1px 1px 0 #41ba45,
-          1px 1px 0 #c63d2b,
-         1px -1px 0 #42afac,
-        -1px -1px 0 #c6c23f;
+
+body{
+  background: #cbcbc4;
+  background-image: -webkit-radial-gradient(cover, #FFF,#D1D1D1 );
+  background-image: -moz-radial-gradient(cover, #e8eaec, #a4a8ae);
+  background-image: -o-radial-gradient(cover, #e8eaec, #a4a8ae);
+  background-image: radial-gradient(cover, #e8eaec, #a4a8ae)
 }
+
+html{
+  min-height:100%;
+}/* Add your styles here */
