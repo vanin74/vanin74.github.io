@@ -16,6 +16,19 @@ body{
   background-image: radial-gradient(cover, #e8eaec, #a4a8ae)
 }
 
+// стиль кнопкм
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+//
+
 html{
   min-height:100%;
 }/* Add your styles here */
