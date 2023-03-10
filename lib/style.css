@@ -18,7 +18,7 @@ body{
 
 /* добавляем стиль кнопкм */
 button {
-  background-color: #4CAF50; /* Green */
+  background-color: red; /*#4CAF50;  Green */
   border: none;
   color: white;
   padding: 10px 20px;
