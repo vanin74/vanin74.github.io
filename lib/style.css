@@ -16,7 +16,7 @@ body{
   background-image: radial-gradient(cover, #e8eaec, #a4a8ae)
 }
 
-// стиль кнопкм
+/* стиль кнопкм */
 button {
   background-color: #4CAF50; /* Green */
   border: none;
@@ -27,7 +27,7 @@ button {
   display: inline-block;
   font-size: 16px;
 }
-//
+/* */
 
 html{
   min-height:100%;
